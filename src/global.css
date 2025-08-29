@@ -1,0 +1,5 @@
+/* globals.css (or your main stylesheet that Tailwind processes) */
+@import "tailwindcss";
+@import "uploadthing/tw/v4";
+/* Optional: If you want to load extra styles from the UploadThing React package */
+@source "/socailly/node_modules/@uploadthing/react/dist";
