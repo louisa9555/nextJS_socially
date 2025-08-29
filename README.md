@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Init project
-npx create-next-app@latest
+## Init project (First time only)
+`npx create-next-app@latest`
 
 ## Getting Started (After init project)
 First, run the development server:
@@ -41,4 +41,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## Reference: Thank you to (https://www.youtube.com/watch?v=vUYopHWOURg)
+## Reference
+
+Thank you to (https://www.youtube.com/watch?v=vUYopHWOURg)
